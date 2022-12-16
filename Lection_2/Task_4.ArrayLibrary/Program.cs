@@ -40,5 +40,5 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-Int pos = IndexOf(array, 4); // найти первую 4 в массиве, первую, т.к. в строке 31 break
+int pos = IndexOf(array, 4); // найти первую 4 в массиве, первую, т.к. в строке 31 break
 Console.WriteLine(pos);
